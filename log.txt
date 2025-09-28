@@ -1,0 +1,309 @@
+?? Document ID: YqVvqkza63d6c3RG0xM1
+   _collection: lottoforex
+   - checked: None
+   - lottotypegroup: G06
+   - lottoclose: 2025-09-29T09:20
+   - lottoperioddate: 2025-09-29T02:20:00Z
+   - lottotype: E03
+   - Ref_ID: Z63qWI0vq70z86ZB14gT
+   - status: 1
+   - lottoprizeid: YqVvqkza63d6c3RG0xM1
+   - country: JP
+   - lottoperioddate_report: 2025-09-29T02:20:00Z
+   - active: True
+   - statuswait: 1
+   - lottoperiod: 
+   - lottoprizename: หุ้นนิเคอิรอบเช้า
+   - lottovalid: 0
+   - lottopriceid: Ox4chBWgTo3PtB5rM15u
+   - visionflag: True
+   - lottoopen: 2025-09-29T00:00
+   - lottototalbet: 2966
+----------------------------------------
+?? Document ID: LVUJjOuEDnemwUs4HqRK
+   _collection: lottoforex
+   - lottoperiod: 
+   - lottoopen: 2025-09-29T00:00
+   - lottotype: E06
+   - statuswait: 1
+   - visionflag: True
+   - lottopriceid: hH4XlfBaNrwVnIkBoic7
+   - lottoperioddate_report: 2025-09-29T05:10:00Z
+   - status: 1
+   - lottoperioddate: 2025-09-29T05:10:00Z
+   - lottoprizename: หุ้นไต้หวัน
+   - lottoclose: 2025-09-29T12:10
+   - Ref_ID: Z63qWI0vq70z86ZB14gT
+   - lottototalbet: 1540
+   - country: TW
+   - active: True
+   - lottotypegroup: G06
+   - lottoprizeid: LVUJjOuEDnemwUs4HqRK
+   - checked: None
+   - lottovalid: 0
+----------------------------------------
+?? Document ID: 7VuGBRkGJYX6iVT2dMbj
+   _collection: lottogroup
+   - active: True
+   - lottoprizename: หวยฮานอยชุด
+   - lottopriceid: cCk7weCLR202a0A49vAd
+   - lottoprizeid: 7VuGBRkGJYX6iVT2dMbj
+   - lottotypegroup: G04
+   - country: VN
+   - lottoperioddate: 2025-09-29T11:10:00Z
+   - lottoperioddate_report: 2025-09-29T11:10:00Z
+   - Ref_ID: Z63qWI0vq70z86ZB14gT
+   - checked: None
+   - lottoopen: 2025-09-29T00:00
+   - visionflag: True
+   - status: 1
+   - lottovalid: 0
+   - lottotype: C01
+   - statuswait: 1
+   - lottoclose: 2025-09-29T18:10
+   - lottoperiod: 
+----------------------------------------
+?? Document ID: fk3zJvPyimqvT9Jz7xZZ
+   _collection: lottothaiforex
+   - lottovalid: 0
+   - lottoperioddate: 2025-09-29T09:30:00Z
+   - checked: None
+   - lottoclose: 2025-09-29T16:30
+   - active: True
+   - country: TH
+   - Ref_ID: Z63qWI0vq70z86ZB14gT
+   - visionflag: True
+   - lottotypegroup: G05
+   - lottoperiod: 
+   - status: 1
+   - lottotype: D01
+   - lottoprizename: หุ้นไทยปิดเย็น
+   - lottoopen: 2025-09-29T00:05
+   - statuswait: 1
+   - lottoperioddate_report: 2025-09-29T09:30:00Z
+   - lottopriceid: A34HXUpuKmh72BlgxwJ6
+   - lottoprizeid: fk3zJvPyimqvT9Jz7xZZ
+----------------------------------------
+?? Document ID: isep9YzysbLpk5ghE9bw
+   _collection: users
+   - newuser: False
+   - promotion: N1
+   - kbiz_status: False
+   - member_totalbet: 2091
+   - totalbet: 1000
+   - version: 4.8
+   - ingame: False
+   - limit_lottobet: 0
+   - Ref_ID: Z63qWI0vq70z86ZB14gT
+   - active: True
+   - name: norapan tonphim
+   - upline_username: None
+   - membersignup: 367766
+   - affiliate: yYim4VQXqG0h
+   - lastname: 
+   - totaldeposit: 1589
+   - last_bonus: 2025-02-21T12:29:41.516Z
+   - totaltopup: 1000
+   - firstname: 
+   - password: 0940268074
+   - id: isep9YzysbLpk5ghE9bw
+   - hackuser: False
+   - totalbet_verify: 2091
+   - type: members
+   - edit_date: 2025-09-18T11:38:04.772Z
+   - ipAddress: 149.88.98.171
+   - Ref: {'fields': {'2': {'stringValue': 'isep9YzysbLpk5ghE9bw'}, '1': {'stringValue': 'Z63qWI0vq70z86ZB14gT'}, '0': {'stringValue': 'oTodbz4mVi3XLQUtZ2G8'}}}
+   - loginProcessing: False
+   - bankaccount: 9082189596
+   - commission_amount: 0
+   - open_withdraw: True
+   - lastSeen: 2025-09-28T20:47:49.187Z
+   - lotto_winloss: 195
+   - connectstatus: False
+   - wheelflag: True
+   - updatedDate: 2024-12-14T12:09:06.764Z
+   - balance: 0
+   - totalwithdraw: 1200
+   - bonus_flag: False
+   - gamesopen: False
+   - elastic: True
+   - bankcode: KBANK
+   - upline: None
+   - uuid: 
+   - createdDate: 2024-12-14T12:09:06.764Z
+   - total_winloss: 0
+   - commission_ref: 0
+   - fistbonustake: True
+   - commission: 2
+   - lotto_totalwon: 1800
+   - agentcode: 000
+   - username: nana999
+   - commission_total: 0
+   - ambking: True
+   - phone: 0940268074
+   - inquiry: False
+   - ipaddress: 149.88.98.171
+   - credit: 0.4900000000000091
+   - wheelstatus: False
+   - user_type: 1
+   - token_noti: emfAj89f7tai5hZBebIYy5:APA91bE353ankbAglbpRseVklAbanTOEDOSAukZGz09szbJ2UALtTSw-5cGlAcYDszLiRuxmCI2FVMxa-dWshPIPhy49aNeStnuKS2TzPUIoYF2m6AdprqI
+   - membertype: 
+   - fullname: นรปราณ ต้นพิมพ์
+   - lastlogin: 2025-09-28T18:34:26.877Z
+   - tel: 0940268074
+   - lottobet_vip: 74
+   - createdate: 2024-12-14T12:09:06.764Z
+   - link: phafun.com
+   - bankshortaccount: 189596
+   - edit_by: 🕸🦁หัวหน้า ศิวะ🦁🕸
+   - memberid: alex367766
+   - online: True
+   - upline_id: None
+----------------------------------------
+?? Document ID: mdRdMAmtNmjM2b49DEw4
+   _collection: lottoforex
+   - lottoperiod: 
+   - checked: None
+   - statuswait: 1
+   - lottoclose: 2025-09-29T13:45
+   - status: 1
+   - visionflag: True
+   - lottoprizename: จีนปิดรอบบ่าย
+   - lottopriceid: DtEDmqKK4U0I1Up74l3e
+   - lottoperioddate: 2025-09-29T06:45:00Z
+   - active: True
+   - Ref_ID: Z63qWI0vq70z86ZB14gT
+   - country: CN
+   - lottotypegroup: G06
+   - lottovalid: 0
+   - lottoperioddate_report: 2025-09-29T06:45:00Z
+   - lottoopen: 2025-09-29T00:00
+   - lottoprizeid: mdRdMAmtNmjM2b49DEw4
+   - lottotype: E09
+----------------------------------------
+?? Document ID: aHJNukAhQukepM7jf0CM
+   _collection: lottoforex
+   - lottoperioddate_report: 2025-09-29T07:50:00Z
+   - country: HK
+   - lottotype: E10
+   - lottoprizeid: aHJNukAhQukepM7jf0CM
+   - active: True
+   - visionflag: True
+   - lottoperioddate: 2025-09-29T07:50:00Z
+   - statuswait: 1
+   - lottoprizename: ฮั่งเส็งปิดบ่าย
+   - lottovalid: 0
+   - lottoclose: 2025-09-29T14:50
+   - lottoopen: 2025-09-29T00:00
+   - lottopriceid: vSrifgBugwKk0BJaRBOv
+   - status: 1
+   - Ref_ID: Z63qWI0vq70z86ZB14gT
+   - lottotypegroup: G06
+   - checked: None
+   - lottoperiod: 
+----------------------------------------
+?? Document ID: sIDwQvsNbaD09NPEwWeM
+   _collection: lottoforex
+   - lottoprizeid: sIDwQvsNbaD09NPEwWeM
+   - lottoopen: 2025-09-29T00:00
+   - country: IN
+   - lottoperioddate_report: 2025-09-29T09:50:00Z
+   - lottoperioddate: 2025-09-29T09:50:00Z
+   - lottotypegroup: G06
+   - statuswait: 1
+   - checked: None
+   - lottopriceid: BYIk1htsblaxapBIjOby
+   - lottoclose: 2025-09-29T16:50
+   - status: 1
+   - lottotype: E16
+   - active: True
+   - lottoprizename: หุ้นอินเดีย
+   - Ref_ID: Z63qWI0vq70z86ZB14gT
+   - lottoperiod: 
+   - visionflag: True
+   - lottovalid: 0
+----------------------------------------
+?? Document ID: YcLvbr3Ku5CuuSddSBzQ
+   _collection: lottoforex
+   - lottoperiod: 
+   - lottoopen: 2025-09-29T00:00
+   - statuswait: 1
+   - visionflag: True
+   - lottovalid: 0
+   - checked: None
+   - lottotype: E15
+   - lottoprizeid: YcLvbr3Ku5CuuSddSBzQ
+   - lottoperioddate_report: 2025-09-29T11:00:00Z
+   - country: EG
+   - lottoclose: 2025-09-29T18:00
+   - lottopriceid: iHjLzPmD0PKwba0WLvuI
+   - active: True
+   - lottoprizename: หวยหุ้นอียิปต์
+   - status: 1
+   - Ref_ID: Z63qWI0vq70z86ZB14gT
+   - lottotypegroup: G06
+   - lottoperioddate: 2025-09-29T11:00:00Z
+----------------------------------------
+?? Document ID: 30YevXEdelO7ODPRTaU4
+   _collection: lottoforex
+   - checked: None
+   - status: 1
+   - lottoperioddate: 2025-09-29T15:00:00Z
+   - lottotype: E12
+   - statuswait: 1
+   - visionflag: True
+   - country: RU
+   - lottoprizename: รัสเซีย
+   - lottoperiod: 
+   - lottoperioddate_report: 2025-09-29T15:00:00Z
+   - lottotypegroup: G06
+   - lottoprizeid: 30YevXEdelO7ODPRTaU4
+   - Ref_ID: Z63qWI0vq70z86ZB14gT
+   - lottoopen: 2025-09-29T00:00
+   - lottopriceid: Jzb7NNcPjZvOH9iCQg6V
+   - lottovalid: 0
+   - lottoclose: 2025-09-29T22:00
+   - active: True
+----------------------------------------
+?? Document ID: Dt2nZ3wBGK427W1aFE7Y
+   _collection: lottoforex
+   - active: True
+   - lottoprizeid: Dt2nZ3wBGK427W1aFE7Y
+   - lottoclose: 2025-09-29T22:00
+   - lottoopen: 2025-09-29T00:00
+   - checked: None
+   - Ref_ID: Z63qWI0vq70z86ZB14gT
+   - status: 1
+   - lottoperioddate: 2025-09-29T15:00:00Z
+   - lottoperiod: 
+   - lottotypegroup: G06
+   - lottopriceid: quMkIqtAKue7RQHDSUtx
+   - lottoperioddate_report: 2025-09-29T15:00:00Z
+   - visionflag: True
+   - lottovalid: 0
+   - lottoprizename: หุ้นอังกฤษ
+   - statuswait: 1
+   - lottotype: E14
+   - country: GB
+----------------------------------------
+?? Document ID: HUEgUQsNv9g0eKwXOZ7Y
+   _collection: lottoforexvip
+   - lottopriceid: BtMG61At7ypxkZgICEgD
+   - country: JP
+   - visionflag: True
+   - lottoperiod: 
+   - status: 1
+   - lottoopen: 2025-09-29T00:10
+   - lottoprizename: นิเคอิ VIP (เช้า)
+   - lottotype: H09
+   - lottotypegroup: G09
+   - lottoperioddate: 2025-09-29T02:00:00Z
+   - lottovalid: 0
+   - checked: None
+   - Ref_ID: Z63qWI0vq70z86ZB14gT
+   - lottoclose: 2025-09-29T09:00
+   - lottoprizeid: HUEgUQsNv9g0eKwXOZ7Y
+   - active: True
+   - lottoperioddate_report: 2025-09-29T02:00:00Z
+   - statuswait: 1
+----------------------------------------
